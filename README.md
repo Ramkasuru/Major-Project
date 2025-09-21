@@ -48,8 +48,8 @@
 ---
 
 ### 🏆 Recognition  
-- Published as *“VIOLA: Video Integration of Object Detection, Language Insights and Accessibility”*.  
-- Received awards for **innovation and accessibility-focused application of AI**.  
+- Published as *“VIOLA: Video Integration of Object Detection, Language Insights and Accessibility”* in the 2024 International Student Conference.  
+- Received awards for **Best AI for Social Impact**.  
 
 ---
 
